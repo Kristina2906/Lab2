@@ -9,7 +9,7 @@ namespace ConsoleApplication4
             int m = 0;
             string word = "";
             Console.WriteLine("Вводите слова");
-            Console.WriteLine("Для выхода наберите exit");
+            Console.WriteLine("Для выхода наберите exit или не наберите");
             for (; ; )
             {
                 string temp = Console.ReadLine();
