@@ -8,7 +8,7 @@ namespace ConsoleApplication4
         {
             int m = 0;
             string word = "";
-            Console.WriteLine("Вводите слова, завершающая каждое нажатие Enter.");
+            Console.WriteLine("Вводите слова");
             Console.WriteLine("Для выхода наберите exit");
             for (; ; )
             {
