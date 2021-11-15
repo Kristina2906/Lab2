@@ -21,7 +21,7 @@ namespace ConsoleApplication4
                     word = temp;
                 }
             }
-            Console.WriteLine("Считывание завершено.");
+            Console.WriteLine("Считывание завершено или нет.");
             Console.WriteLine("Самое длинное слово: " + word.ToUpper() + " (" + m + ")");
         }
     }
