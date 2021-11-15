@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.exe
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.deps.json
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.runtimeconfig.json
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.runtimeconfig.dev.json
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.dll
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.pdb
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.AssemblyInfo.cs
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.dll
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.pdb
+C:\Users\krist\source\repos\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.genruntimeconfig.cache
